@@ -8,7 +8,8 @@ public class App
 
 		for(i=0;i<=40;i++)
 		{
-			i += 10;
+			i += 5;
+			i += 5;
    		}
 	 }
 }
